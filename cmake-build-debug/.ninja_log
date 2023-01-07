@@ -1,0 +1,5 @@
+# ninja log v5
+0	25	1669455887007175770	CMakeFiles/zzz_ori.dir/main.c.o	6731490ffbbd11e6
+1	27	1669455955453207172	CMakeFiles/zzz_ori.dir/tools/fileinfo.c.o	df37e52ded795ae0
+1	30	1669455955457207542	CMakeFiles/zzz_ori.dir/tools/floppy.c.o	68f95c4d19f501b7
+30	42	1669455955469208651	zzz_ori	9a58b2ea8d00233b
